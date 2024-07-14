@@ -42,14 +42,12 @@
 
 ## 📊 Estatísticas GitHub
 
-<div>
-  <a href="https://github.com/nickpaines">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickpaines&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide_title=true"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickpaines&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide_title=true)
  
 
  ## 🚀 Linguagens Mais Usadas
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickpaines&layout=compact&langs_count=7&theme=chartreuse-dark&hide_title=true"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickpaines&layout=compact&langs_count=7&theme=chartreuse-dark&hide_title=true)
 
 
 
